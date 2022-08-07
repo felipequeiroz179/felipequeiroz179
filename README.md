@@ -13,6 +13,7 @@
       src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
     />
   </a>
+  <br><br>
   <a href="https://github.com/felipequeiroz179">
     <img
       align="center"
