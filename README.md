@@ -4,9 +4,33 @@
 
 
 <div align="center">
+    <p align="center">
   <a href="https://github.com/felipequeiroz179">
-  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&layout=compact&langs_count=7&theme=dark"/>
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/felipequeiroz179">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/felipequeiroz179">
+    <img
+      align="center"
+      src="https://github-profile-trophy.vercel.app/?username=felipequeiroz179&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
+    />s
+  </a>
+</a>
+</p>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fels-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
