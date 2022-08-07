@@ -79,7 +79,7 @@
    ##
   <img align="left" alt="Fels-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_Fx1IX0aP.png">  
   
-  ### Thank you for preview my profile 💓 ![](https://visitor-badge.glitch.me/badge?page_id=felipequeiroz179)
+  ### Thank you for visiting my profile 💓 ![](https://visitor-badge.glitch.me/badge?page_id=felipequeiroz179)
    
   
 </div> 
