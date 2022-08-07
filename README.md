@@ -19,7 +19,6 @@
       height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
     />
-    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Fels">
   </a>
 </p>
 
