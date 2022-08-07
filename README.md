@@ -1,6 +1,7 @@
 ### Hi👋, my name is Felipe Queiroz
 * Formation: I'm currently studying ✍️ systems analysis and development at Bandeirantes technology college (SPTECH)
-* Occupation: Back-end developer 🧑‍💻 
+* Occupation: Back-end developer at Safra Group 🧑‍💻 
+
 
 
 <div align="center">
