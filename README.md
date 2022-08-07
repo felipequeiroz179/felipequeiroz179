@@ -30,11 +30,16 @@
       src="https://github-profile-trophy.vercel.app/?username=felipequeiroz179&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
     />
   </a>
+  
 </a>
+
 </p>
 </div>
 
+  ##
   
+  ![snake gif](https://github.com/felipequeiroz179/felipequeiroz179/blob/output/github-contribution-grid-snake.svg)
+
   ##
  
 <div> 
@@ -75,6 +80,5 @@
   
   ### Thank you for preview my profile 💓
    
-  ![snake gif](https://github.com/felipequeiroz179/felipequeiroz179/blob/output/github-contribution-grid-snake.svg)
   
 </div> 
