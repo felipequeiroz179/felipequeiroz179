@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/felipequeiroz179">
-  <img height="48%" src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180cm" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fels-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
