@@ -2,7 +2,7 @@
 * Formation: I'm currently studying ✍️ systems analysis and development at Bandeirantes technology college (SPTECH)
 * Occupation: Back-end developer at Safra Group 🧑‍💻 
 
-<img src="https://data.whicdn.com/images/299020482/original.gif" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.pinimg.com/originals/31/9a/2d/319a2d108b51035bcdd43edc37866094.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="center">
     <p align="center">
