@@ -1,6 +1,6 @@
 ### Hi👋, my name is Felipe Queiroz
-### Formation: I'm currently studying systems analysis and development at Bandeirantes technology college (SPTECH)
-### Occupation: Back-end developer 
+* Formation: I'm currently studying ✍️ systems analysis and development at Bandeirantes technology college (SPTECH)
+* Occupation: Back-end developer 🧑‍💻 
 
 
 <div align="center">
