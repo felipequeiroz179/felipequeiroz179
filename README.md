@@ -4,24 +4,6 @@
 
 <img src="https://data.whicdn.com/images/299020482/original.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<div align="center">
-    <p align="center">
-  <a href="https://github.com/felipequeiroz179">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"
-    />
-  </a>
-  <br><br>
-  <a href="https://github.com/felipequeiroz179">
-    <img
-      align="center"
-      height="150em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipequeiroz179&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
-    />
-  </a>
-</p>
 
 
 <p align="center">
