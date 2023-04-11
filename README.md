@@ -57,8 +57,7 @@
   
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" target="_blank"></a>
-   ##
-  <img align="left" alt="Fels-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/338224_Fx1IX0aP.png">  
+   ##  
   
   ### Thank you for visiting my profile 💓 ![](https://visitor-badge.glitch.me/badge?page_id=felipequeiroz179)
    
