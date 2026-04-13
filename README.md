@@ -2,10 +2,6 @@
 ### Welcome my GitHub
 <p align="center">
   <a href="https://github.com/felipequeiroz179">
-    <img
-      align="center"
-      src="https://github-profile-trophy.vercel.app/?username=felipequeiroz179&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"
-    />
   </a>
   
 </a>
