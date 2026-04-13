@@ -1,9 +1,5 @@
 ### Hi👋, my name is Felipe Queiroz 
-
-<img src="https://data.whicdn.com/images/299020482/original.gif" min-width="400px" max-width="400px" width="400px" align="right">
-
-
-
+### Welcome my GitHub
 <p align="center">
   <a href="https://github.com/felipequeiroz179">
     <img
@@ -16,13 +12,6 @@
 
 </p>
 </div>
-
-  ##
-  
-  ![snake gif](https://github.com/felipequeiroz179/felipequeiroz179/blob/output/github-contribution-grid-snake.svg)
-
-  ##
- 
 <div> 
   <a href = "mailto:felipequeiroz08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-de-sales-queiroz-69aa77243" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
